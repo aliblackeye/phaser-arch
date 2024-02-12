@@ -18,4 +18,6 @@ export class Game extends Scene {
       frameHeight: 48,
     });
   }
+
+  create() {}
 }
